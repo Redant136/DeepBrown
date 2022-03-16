@@ -1,0 +1,12 @@
+ficsgames.org download from 2021-04-04 09:33:28 with search parameters:
+ignore colors =  yes
+only rated games = no
+Variant = any
+From Date (UTC) = 2020-04-04 04:00:00
+Until Date (UTC)= 2021-04-04 13:33:28
+Both player ratings: 2400-2599 
+Computer and human games: only humans vs. humans
+Game Result: any
+Time controls: Any time per game / Any Increment
+ECO = any
+Game count: 133 games
